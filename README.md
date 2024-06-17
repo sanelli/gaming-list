@@ -5,6 +5,11 @@
 |-------|--------------|--------------|---------|-------|--------------|-------|
 | [Elden Ring](https://en.wikipedia.org/wiki/Elden_Ring) | [FromSoftware](https://en.wikipedia.org/wiki/FromSoftware) | [Bandai Namco](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment) | Playstation 5 | [Action role-playing](https://en.wikipedia.org/wiki/Action_role-playing), [Soulsike](https://en.wikipedia.org/wiki/Soulslike) | | |
 
+## 2021
+| Title | Developer(s) | Publisher(s) | Console | Genre | Completed on | Score |
+|-------|--------------|--------------|---------|-------|--------------|-------|
+| [Cuphead](https://en.wikipedia.org/wiki/Cuphead) | Studio MDHR |Studio MDHR | Nintendo Switch | [Run and gun](https://en.wikipedia.org/wiki/Run_and_gun_(video_game)) | 2021-01-09 | ⭐️⭐️⭐️ |
+| [Alex Kidd in Miracle World DX](https://en.wikipedia.org/wiki/Alex_Kidd_in_Miracle_World#Remake) | [Sega](https://en.wikipedia.org/wiki/Sega) | [Sega](https://en.wikipedia.org/wiki/Sega) | Nintendo Switch | [Platform](https://en.wikipedia.org/wiki/Platform_game) | 2021-01-10 | ⭐️⭐️⭐️ |
 
 ## 2020
 | Title | Developer(s) | Publisher(s) | Console | Genre | Completed on | Score |
