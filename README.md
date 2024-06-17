@@ -54,13 +54,16 @@
 | Mario Kart Deluxe 8 | | | Nintendo Switch | |  | ⭐️⭐️⭐️ |
 | Pokémon Shield | | | Nintendo Switch | |  | ⭐️⭐️⭐️⭐️ |
 | Xenoblade Chronicles 2 | | | Nintendo Switch | |  | ⭐️⭐️⭐️⭐️ |
-| Grim Fandango  | | | Nintendo Switch | | 🏳️  |  |
 | Wonder Boy: The dragon's trap | | | Nintendo Switch | |  | ⭐️⭐️⭐️⭐️⭐️ |
-| Dark Soul Remastered | | | Nintendo Switch | | 🏳️  | |
-| The Legenda Of Zelda: Skyword Sword  | | | Nintendo Switch | | 🏳️ |  |
-| Salt and Sanctuary | | | Nintendo Switch | | 🏳️ |  |
-| Return to Monkey Island | | | Nintendo Switch | | 🏳️ | |
-| Pokkén Tournament | | | Nintendo Switch | | 🏳️ |  |
-| Capcom fighting collection | | | Nintendo Switch | | 🏳️ |  |
 
-
+## Abandoned
+| Title | Developer(s) | Publisher(s) | Console | Genre | Reason |
+|-------|--------------|--------------|---------|-------|--------|
+| Dark Soul Remastered | | | Nintendo Switch | | Too hard 🙈  |
+| The Legenda Of Zelda: Skyword Sword  | | | Nintendo Switch | | Boring, bad controls 😴 |
+| Salt and Sanctuary | | | Nintendo Switch | | Too hard 🙈  |
+| Return to Monkey Island | | | Nintendo Switch | | Boring |
+| Pokkén Tournament | | | Nintendo Switch | | Boring |
+| Paper Mario: The Origami King  | | | Nintendo Switch | | Boring |
+| Grim Fandango  | | | Nintendo Switch | | Boring |
+| Capcom fighting collection | | | Nintendo Switch | | Too hard 🙈 |
