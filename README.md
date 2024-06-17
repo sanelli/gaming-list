@@ -4,6 +4,12 @@
 | Title | Developer(s) | Publisher(s) | Console | Genre | Completed on | Score |
 |-------|--------------|--------------|---------|-------|--------------|-------|
 | [Elden Ring](https://en.wikipedia.org/wiki/Elden_Ring) | [FromSoftware](https://en.wikipedia.org/wiki/FromSoftware) | [Bandai Namco](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment) | Playstation 5 | [Action role-playing](https://en.wikipedia.org/wiki/Action_role-playing), [Soulsike](https://en.wikipedia.org/wiki/Soulslike) | | |
+| Celeste | | | Nintendo Switch | |  | ⭐️ |
+
+## 2023
+| Title | Developer(s) | Publisher(s) | Console | Genre | Completed on | Score |
+|-------|--------------|--------------|---------|-------|--------------|-------|
+| The Legend of Zelda: Taers of the Kingdom | | | Nintendo Switch | | 2023 | ⭐️⭐️⭐️⭐️ |
 
 ## 2022
 | Title | Developer(s) | Publisher(s) | Console | Genre | Completed on | Score |
@@ -36,3 +42,25 @@
 
 
 ## Past
+| Title | Developer(s) | Publisher(s) | Console | Genre | Completed on | Score |
+|-------|--------------|--------------|---------|-------|--------------|-------|
+| Super Mario Deluxe | | | Nintendo Switch | |  | ⭐️⭐️⭐️⭐️ |
+| Luigi's Mansion 3 | | | Nintendo Switch | |  | ⭐️⭐️⭐️⭐️ |
+| The Legend of Zelda: Breath of the Wild | | | Nintendo Switch | |  | ⭐️⭐️⭐️⭐️⭐️ |
+| The Legend of Zelda: Links awakening | | | Nintendo Switch | |  | ⭐️⭐️⭐️⭐️ |
+| Super Mario Odissey | | | Nintendo Switch | |  | ⭐️⭐️⭐️⭐️⭐️ |
+| Mario + Rabbids: Kingdom Battle | | | Nintendo Switch | |  | ⭐️⭐️⭐️⭐️ |
+| Pokémon: Let's Go Pikachu | | | Nintendo Switch | |  | ⭐️⭐️ |
+| Mario Kart Deluxe 8 | | | Nintendo Switch | |  | ⭐️⭐️⭐️ |
+| Pokémon Shield | | | Nintendo Switch | |  | ⭐️⭐️⭐️⭐️ |
+| Xenoblade Chronicles 2 | | | Nintendo Switch | |  | ⭐️⭐️⭐️⭐️ |
+| Grim Fandango  | | | Nintendo Switch | | 🏳️  |  |
+| Wonder Boy: The dragon's trap | | | Nintendo Switch | |  | ⭐️⭐️⭐️⭐️⭐️ |
+| Dark Soul Remastered | | | Nintendo Switch | | 🏳️  | |
+| The Legenda Of Zelda: Skyword Sword  | | | Nintendo Switch | | 🏳️ |  |
+| Salt and Sanctuary | | | Nintendo Switch | | 🏳️ |  |
+| Return to Monkey Island | | | Nintendo Switch | | 🏳️ | |
+| Pokkén Tournament | | | Nintendo Switch | | 🏳️ |  |
+| Capcom fighting collection | | | Nintendo Switch | | 🏳️ |  |
+
+
